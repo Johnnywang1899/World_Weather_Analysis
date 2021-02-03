@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-API, JSON, Python Pandas and Matplotlib
+API, JSON, HTML, Regression Analysis, Python Pandas and Matplotlib
 # Purpose
 The project creates a google map with detailed information including hotel name, city, country, weather description shown on the map by clicking the locating pins.  
 ![hotel_map_final.png](image/hotel_map_final.PNG)  
