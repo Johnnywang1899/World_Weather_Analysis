@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 API, JSON, HTML, Regression Analysis, Python Pandas and Matplotlib
 # Purpose
-The project creates a google map with detailed information including hotel name, city, country, weather description shown on the map by clicking the locating pins.  
+The project creates a heatmap based on the local weather conditions and preference provided by the users. The map marks the city and hotels with detailed information including hotel name, city, country, weather description shown on the map by clicking the locating pins.  
 ![hotel_map_final.png](image/hotel_map_final.PNG)  
 The itinerary for the selected five locations in Brazil is created with detailed information.  
 ![WeatherPy_travel_map.png](image/WeatherPy_travel_map.PNG)  
