@@ -2,9 +2,9 @@
 API, JSON, Python Pandas and Matplotlib
 # Purpose
 The project creates a google map with detailed information including hotel name, city, country, weather description shown on the map by clicking the locating pins.  
-![hotel_map_final.png](/image/hotel_map_final.png)  
+![hotel_map_final.png](image/hotel_map_final.png)  
 The itinerary for the selected five locations in Brazil is created with detailed information.  
-![WeatherPy_travel_map.png](/image/WeatherPy_travel_map.png)  
+![WeatherPy_travel_map.png](image/WeatherPy_travel_map.PNG)  
 # Procedure
 - Input preference (preferred temperature to travel) is provided by the user.  
 - Around 2000 cities around the world get generated with detailed weather information pulled from OpenWeather using API key.  
